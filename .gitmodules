@@ -1,0 +1,6 @@
+[submodule "sw-tablet-mode-iio"]
+	path = sw-tablet-mode-iio
+	url = git@github.com:kovalev0/sw-tablet-mode-iio.git
+[submodule "touch-auto-rotate"]
+	path = touch-auto-rotate
+	url = git@github.com:kovalev0/touch-auto-rotate.git
